@@ -32,13 +32,13 @@ Run index.html
 
 📸 Screenshots
 Landing Page-
-screenshots/landing.png
+landing.png
 
 Dashboard-
-screenshots/dashboard.png
+dashboard.png
 
 AI Interventions-
-screenshots/interventions.png
+interventions.png
 
 
 🌍 Impact
@@ -74,4 +74,5 @@ Mobile app (iOS & Android)
 Team-level burnout monitoring for managers
 Wearable integration (heart rate, sleep data)
 Slack & Microsoft Teams bot for in-context alerts
+
 
